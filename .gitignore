@@ -1,0 +1,9 @@
+# Build artifacts
+bootstrap
+*.zip
+
+# Go build cache
+bin/
+dist/
+
+#
